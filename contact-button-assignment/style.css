@@ -1,0 +1,28 @@
+body {
+    background-color: #BACDB0;
+    color: #2E2C2F;
+    text-align: center;
+}
+button{
+    background-color: #F3E8EE;
+    color: #475B63;  
+    font-family: 'BIZ UDMincho', serif;
+    text-transform: uppercase;
+    width: 200px;
+    padding: 10px
+    margin: 10px 10px 10px 10px;
+    border: none;
+    border-radius: 10px;
+}
+
+button:hover {
+    background-color: #729B79;
+}
+
+h1{
+    font-family: 'BIZ UDMincho', serif;
+    font-weight: normal;
+}
+h2{
+    font-family: 'BIZ UDMincho', serif;
+}
