@@ -1,0 +1,33 @@
+/*
+MY COLOR PALETTE
+Color 1 - #F3E8EE
+Color 2 - #BACDB0
+Color 3 - #729B79
+Color 4 - #475B63
+Color 5 - #2E2C2F
+*/
+
+body {
+    background-color: #475B63;
+    text-align:center;
+}
+
+div {
+    width: 300px;
+    height: 300px;
+    text-align:center;
+    font-size:44px;
+    font-family: 'BIZ UDMincho', serif;
+    color: #BACDB0;
+    border: 3px solid white;
+    padding: 10px
+    margin: 10px 10px 10px 10px;
+    border: none;
+    border-radius: 10px;
+}
+
+
+#highlight {
+    color: #2E2C2F;
+    font-weight: bold;
+}
